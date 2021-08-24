@@ -3,4 +3,4 @@ In this project, I will use test-driven development to build a factorial method.
 
 
 
-The steps below follow the red-green-refactor cycle and will guide you through the process of using test-driven development to create a factorial method. The factorial method will be inside an object named Calculate. I will be implementing your test code in the file index_test.js, and your implementation code in index.js.
+The project steps follow the red-green-refactor cycle and will guide you through the process of using test-driven development to create a factorial method. The factorial method will be inside an object named Calculate. I will be implementing your test code in the file index_test.js, and your implementation code in index.js.
